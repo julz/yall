@@ -1,0 +1,9 @@
+name: Julz Friedman
+bio: |
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
+avatar: ./avatars/dennis-brotzky.jpg
+social:
+  - url: https://twitter.com/doctor_julz
+  - url: https://github.com/julz
+featured: true
